@@ -1,6 +1,6 @@
 # Project Readme - Magma Website Clone.
 
-<img src="./assets/HomePage.png" alt="" style=""/>
+<img src="assets/HomePage.png" alt="" style=""/>
 
 # Description
 
@@ -10,7 +10,7 @@ I learned about GSAP & LocoMotive Scroll while Building this website
 
 ## Link for YouTube Video
 
-[![The Video Link](./assets//videoThumbnail.png)](https://youtu.be/n6UPwT2hf_g)
+[![The Video Link](assets//videoThumbnail.png)](https://youtu.be/n6UPwT2hf_g)
 
 ## Technologies Used
 
